@@ -1,0 +1,17 @@
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\bin\Debug\net8.0\CatFacts.exe
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\bin\Debug\net8.0\CatFacts.deps.json
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\bin\Debug\net8.0\CatFacts.runtimeconfig.json
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\bin\Debug\net8.0\CatFacts.dll
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\bin\Debug\net8.0\CatFacts.pdb
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\bin\Debug\net8.0\RestSharp.dll
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\obj\Debug\net8.0\CatFacts.csproj.AssemblyReference.cache
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\obj\Debug\net8.0\CatFacts.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\obj\Debug\net8.0\CatFacts.AssemblyInfoInputs.cache
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\obj\Debug\net8.0\CatFacts.AssemblyInfo.cs
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\obj\Debug\net8.0\CatFacts.csproj.CoreCompileInputs.cache
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\obj\Debug\net8.0\CatFacts.csproj.CopyComplete
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\obj\Debug\net8.0\CatFacts.dll
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\obj\Debug\net8.0\refint\CatFacts.dll
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\obj\Debug\net8.0\CatFacts.pdb
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\obj\Debug\net8.0\CatFacts.genruntimeconfig.cache
+c:\Users\theo.lindqvist\Documents\NTI Programmering\CatFacts\CatFacts\obj\Debug\net8.0\ref\CatFacts.dll
